@@ -1,0 +1,43 @@
+.header{
+    text-align: center;
+}
+
+.key-slider{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    display: block;
+    margin: auto 0;
+    padding: 0 10px 0 10px;
+    
+}
+
+.key-slider .btn button{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    border: 1px solid black;
+    background: white;
+    outline: none;
+}
+
+.key-slider .btn button:active, button:focus{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    border: 1px solid black;
+    background: gray;
+    outline: none;
+}
+
+.imgs{
+    display: block;
+}
+
+
+.key-slider .imgs img{
+    width: 500px;
+    height: 250px;
+}
