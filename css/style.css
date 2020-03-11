@@ -1,5 +1,9 @@
 body{
-    background: pink;
+    background: purple;
+}
+
+h1{
+    text-align: center;
 }
 
 .header{
