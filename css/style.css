@@ -2,6 +2,11 @@ body{
     background: pink;
 }
 
+.welcome{
+    text-align: center;
+    font-size: 20px;
+}
+
 .header{
     text-align: center;
 }
